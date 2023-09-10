@@ -9,10 +9,10 @@ namespace TESTE_API.Infraestrutura
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
 
         => optionsBuilder.UseNpgsql(
-            "Server=containers-us-west-197.railway.app\r\n\r\n\r\n;" +
-            "Port=6821;Database=railway;" +
+            "Server=pim-database.czpldp3qvtb6.us-east-1.rds.amazonaws.com;" +
+            "Port=5432;Database=postgres;" +
             "User Id=postgres;" +
-            "Password=8wn4rjXhUik4BtWw8epT;"
+            "Password=pimdatabase123;"
             );
     }
 }
