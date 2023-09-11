@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wnPK7uvIW1Osee/dpqIXCHjRfReP3AMVR/DcoNLBel/ly/JsMBGCwpDZMef2xY3VIOupoKY6gu9N8ohiJAlXGw==",
+  "dgSpecHash": "AtuFNn2Kx51vIGLdhMZEXCIVnD9yXNcV9/ooiKvk7NdfbwkfjzuLehQ4aEhDiizLRyS6qFU8Ik0Bo0KYJzjGMQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Documentos\\Windows Forms Projetos\\TESTE-API\\TESTE-API\\TESTE-API.csproj",
+  "projectFilePath": "C:\\Users\\tiago\\OneDrive\\Documentos\\web-api-pim\\TESTE-API\\TESTE-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.4\\microsoft.aspnetcore.openapi.7.0.4.nupkg.sha512",
     "C:\\Users\\tiago\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.10\\microsoft.entityframeworkcore.7.0.10.nupkg.sha512",

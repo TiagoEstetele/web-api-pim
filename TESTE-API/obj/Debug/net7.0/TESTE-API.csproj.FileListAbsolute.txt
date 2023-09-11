@@ -36,3 +36,41 @@ C:\Users\tiago\OneDrive\Documentos\Windows Forms Projetos\TESTE-API\TESTE-API\bi
 C:\Users\tiago\OneDrive\Documentos\Windows Forms Projetos\TESTE-API\TESTE-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
 C:\Users\tiago\OneDrive\Documentos\Windows Forms Projetos\TESTE-API\TESTE-API\bin\Debug\net7.0\Npgsql.dll
 C:\Users\tiago\OneDrive\Documentos\Windows Forms Projetos\TESTE-API\TESTE-API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\appsettings.json
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\TESTE-API.exe
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\TESTE-API.deps.json
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\TESTE-API.runtimeconfig.json
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\TESTE-API.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\TESTE-API.pdb
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\Npgsql.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.csproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.AssemblyInfoInputs.cache
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.AssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.csproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\staticwebassets\msbuild.TESTE-API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\staticwebassets\msbuild.build.TESTE-API.props
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.TESTE-API.props
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.TESTE-API.props
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\scopedcss\bundle\TESTE-API.styles.css
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.csproj.CopyComplete
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\refint\TESTE-API.dll
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.pdb
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\TESTE-API.genruntimeconfig.cache
+C:\Users\tiago\OneDrive\Documentos\web-api-pim\TESTE-API\obj\Debug\net7.0\ref\TESTE-API.dll

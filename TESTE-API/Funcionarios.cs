@@ -26,8 +26,9 @@ namespace TESTE_API
         public bool ativo { get; set; }
         public string nome_social { get; set; }
         public string genero { get; set; }
+        public string endereco { get; set; }
 
-        public Funcionarios(int id_funcionario, int id_cargo, string nome, string telefone, DateOnly data_admissao, string ctps, float salario_bruto, DateOnly data_nascimento, string banco, string conta, string cpf, string email, bool ativo, string nome_social, string genero)
+        public Funcionarios(int id_funcionario, int id_cargo, string nome, string telefone, DateOnly data_admissao, string ctps, float salario_bruto, DateOnly data_nascimento, string banco, string conta, string cpf, string email, bool ativo, string nome_social, string genero, string endereco)
         {
             this.id_funcionario = id_funcionario;
             this.id_cargo = id_cargo;
@@ -44,6 +45,7 @@ namespace TESTE_API
             this.ativo = ativo;
             this.nome_social = nome_social;
             this.genero = genero;
+            this.endereco = endereco;
         }
     }
 }

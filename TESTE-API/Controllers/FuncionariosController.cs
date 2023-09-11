@@ -19,7 +19,7 @@ namespace TESTE_API.Controllers
 
         public IActionResult Add(FuncionariosViewModel funcionariosView)
         {
-            var funcionarios = new Funcionarios(funcionariosView.id_funcionario, funcionariosView.id_cargo, funcionariosView.nome, funcionariosView.telefone, funcionariosView.data_admissao, funcionariosView.ctps, funcionariosView.salario_bruto, funcionariosView.data_nascimento, funcionariosView.banco, funcionariosView.conta, funcionariosView.cpf, funcionariosView.email, funcionariosView.ativo, funcionariosView.nome_social, funcionariosView.genero);
+            var funcionarios = new Funcionarios(funcionariosView.id_funcionario, funcionariosView.id_cargo, funcionariosView.nome, funcionariosView.telefone, funcionariosView.data_admissao, funcionariosView.ctps, funcionariosView.salario_bruto, funcionariosView.data_nascimento, funcionariosView.banco, funcionariosView.conta, funcionariosView.cpf, funcionariosView.email, funcionariosView.ativo, funcionariosView.nome_social, funcionariosView.genero, funcionariosView.endereco);
             _funcionariosRepository.Add(funcionarios);
 
             return Ok(); 
