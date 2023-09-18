@@ -1,4 +1,5 @@
 ﻿using Microsoft.AspNetCore.Mvc;
+using TESTE_API.Entities;
 using TESTE_API.Model;
 using TESTE_API.ViewModel;
 
@@ -40,5 +41,21 @@ namespace TESTE_API.Controllers
 
             return Ok();
         }
+
+        [HttpPut("{id}")]
+        public IActionResult Update(int id, FuncionariosViewModel funcionariosView)
+        {
+            var funcionario = new Funcionarios(funcionariosView.id_funcionario, funcionariosView.id_cargo, funcionariosView.nome, funcionariosView.telefone, funcionariosView.data_admissao, funcionariosView.ctps, funcionariosView.salario_bruto, funcionariosView.data_nascimento, funcionariosView.banco, funcionariosView.conta, funcionariosView.cpf, funcionariosView.email, funcionariosView.ativo, funcionariosView.nome_social, funcionariosView.genero, funcionariosView.endereco);
+
+            // Defina o ID do funcionário com base no parâmetro da rota.
+            funcionario.id_funcionario = id;
+
+            _funcionariosRepository.Update(funcionario);
+
+            return Ok(); // Retorna o funcionário atualizado.
+        }
+
+
+
     }
 }

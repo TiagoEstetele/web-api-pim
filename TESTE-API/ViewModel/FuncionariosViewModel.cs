@@ -14,7 +14,7 @@ namespace TESTE_API.ViewModel
         [JsonConverter(typeof(DateOnlyConverter))]
         public DateOnly data_admissao { get; set; }
         public string ctps { get; set; }
-        public float salario_bruto { get; set; }
+        public decimal salario_bruto { get; set; }
 
         [JsonConverter(typeof(DateOnlyConverter))]
         public DateOnly data_nascimento { get; set; }
